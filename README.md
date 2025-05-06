@@ -44,3 +44,33 @@ More languages can be added easily using a `lang` prop or external i18n provider
 
 ```bash
 npm install
+
+
+---
+
+
+🤝 Contribute
+Your contribution can make a difference 🫶
+
+We're looking for collaborators to help expand and refine the widget.
+Here’s how you can help:
+
+🐛 Report bugs or accessibility issues
+
+✨ Suggest or build new features (e.g., screen reader toggle, animations)
+
+🌐 Add support for more languages
+
+🧪 Improve testing and performance
+
+🎨 Help design a better user experience (UI/UX)
+
+To contribute:
+
+Fork the repository
+
+Create a new branch
+
+Submit a pull request with a clear explanation of your changes
+
+All contributions, big or small, are welcome 🙌
