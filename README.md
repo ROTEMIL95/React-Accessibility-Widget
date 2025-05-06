@@ -50,6 +50,7 @@ npm install
 
 
 ## 🤝 Contribute
+
 Your contribution can make a difference 🫶
 
 We're looking for collaborators to help expand and refine the widget.
@@ -74,3 +75,5 @@ Create a new branch
 Submit a pull request with a clear explanation of your changes
 
 All contributions, big or small, are welcome 🙌
+
+---
