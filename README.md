@@ -49,7 +49,7 @@ npm install
 ---
 
 
-🤝 Contribute
+## 🤝 Contribute
 Your contribution can make a difference 🫶
 
 We're looking for collaborators to help expand and refine the widget.
