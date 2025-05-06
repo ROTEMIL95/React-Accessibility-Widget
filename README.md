@@ -21,7 +21,7 @@ Supports key accessibility features to enhance usability and inclusivity.
 ## 🌐 Language Support
 
 This widget currently supports two languages:
-- 🇮🇱 Hebrew (ברירת מחדל בממשק RTL)
+- 🇮🇱 Hebrew (RTL)
 - 🇺🇸 English
 
 More languages can be added easily using a `lang` prop or external i18n provider (e.g. react-i18next).
